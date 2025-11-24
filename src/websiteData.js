@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/25 03:31:59
+// 网站数据 - 通过管理后台更新于 2025/11/25 03:42:37
 
 // 站点配置
 export const siteConfig = {
@@ -309,6 +309,13 @@ export const categories = [
     "id": "friend_links",
     "name": "友情链接",
     "icon": "/assets/link.png",
+    "special": false,
+    "subcategories": []
+  },
+  {
+    "id": "category_1764013311118",
+    "name": "搜索引擎",
+    "icon": "/assets/guge__.png",
     "special": false,
     "subcategories": []
   }
